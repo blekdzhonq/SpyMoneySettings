@@ -1,0 +1,40 @@
+name: Settings Installer Release
+
+on:
+  push:
+    tags:
+      - 'settings-*'
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: windows-latest  # windows runner is simplest for GUI apps
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-dotnet@v4
+        with: { dotnet-version: '8.x' }
+
+      - name: Publish Settings Installer
+        run: >
+          dotnet publish .\SpyMoney.SettingsInstaller.csproj
+          -c Release -r win-x64 --self-contained true
+          /p:PublishSingleFile=true /p:EnableWindowsTargeting=true
+
+      - name: Locate EXE
+        id: locate
+        shell: powershell
+        run: |
+          $exe = "bin\Release\net8.0-windows\win-x64\publish\SpyMoney.SettingsInstaller.exe"
+          if (-not (Test-Path $exe)) { throw "EXE not found: $exe" }
+          "exe=$exe" >> $env:GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Settings Release ${{ github.ref_name }}
+          files: ${{ steps.locate.outputs.exe }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
