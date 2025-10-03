@@ -6,6 +6,9 @@ on:
       - 'settings-*'
       - 'v*'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: windows-latest  # windows runner is simplest for GUI apps
