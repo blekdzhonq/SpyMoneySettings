@@ -16,9 +16,9 @@ jobs:
       - uses: actions/setup-dotnet@v4
         with: { dotnet-version: '8.x' }
 
-      - name: Publish Settings Installer
+      - name: Publish (single-file EXE)
         run: >
-          dotnet publish .\SpyMoney.SettingsInstaller.csproj
+          dotnet publish .\SpyMoneySettings.csproj
           -c Release -r win-x64 --self-contained true
           /p:PublishSingleFile=true /p:EnableWindowsTargeting=true
 
@@ -26,9 +26,11 @@ jobs:
         id: locate
         shell: powershell
         run: |
-          $exe = "bin\Release\net8.0-windows\win-x64\publish\SpyMoney.SettingsInstaller.exe"
-          if (-not (Test-Path $exe)) { throw "EXE not found: $exe" }
-          "exe=$exe" >> $env:GITHUB_OUTPUT
+          $publishDir = "bin\Release\net8.0-windows\win-x64\publish"
+          if (-not (Test-Path $publishDir)) { throw "Publish dir not found: $publishDir" }
+          $exe = Get-ChildItem $publishDir -Filter *.exe | Select-Object -First 1
+          if (-not $exe) { throw "No EXE found in $publishDir" }
+          "exe=$($exe.FullName)" >> $env:GITHUB_OUTPUT
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
