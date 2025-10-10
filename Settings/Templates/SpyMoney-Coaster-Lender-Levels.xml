@@ -3,7 +3,7 @@
   <Item>
     <Name>ShortName</Name>
     <Type>SettingItemString</Type>
-    <Value>A</Value>
+    <Value>Coa</Value>
   </Item>
   <Item>
     <Name>activeWindowBound.width</Name>
@@ -37,7 +37,7 @@
         <Item>
           <Name>width</Name>
           <Type>SettingItemInteger</Type>
-          <Value>169</Value>
+          <Value>231</Value>
         </Item>
         <Item>
           <Name>height</Name>
@@ -57,7 +57,7 @@
         <Item>
           <Name>restoreWidth</Name>
           <Type>SettingItemInteger</Type>
-          <Value>169</Value>
+          <Value>230</Value>
         </Item>
         <Item>
           <Name>restoreHeight</Name>
@@ -92,14 +92,14 @@
           <Name>CurrentSymbol</Name>
           <Type>SettingItemSymbol</Type>
           <BusinessObjectInfo>
-            <Id>F.US.ENQU25</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>ENQU25</Name>
-            <ExchangeId>EMiniCME</ExchangeId>
+            <Id>NQZ5@CME</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>NQZ5</Name>
+            <ExchangeId>CME</ExchangeId>
             <SymbolType>Futures</SymbolType>
             <FuturesContractType>Contract</FuturesContractType>
-            <Root>ENQ</Root>
-            <ExpirationTime>2025-09-19T00:00:00</ExpirationTime>
+            <Root>NQ</Root>
+            <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
           </BusinessObjectInfo>
         </Item>
         <Item>
@@ -157,6 +157,11 @@
               </Actions>
             </Alert>
           </Item>
+        </Item>
+        <Item>
+          <Name>ShowToolbar</Name>
+          <Type>SettingItemBoolean</Type>
+          <Value>false</Value>
         </Item>
         <Item>
           <Name>Table</Name>
@@ -1607,11 +1612,6 @@
           <Value>true</Value>
         </Item>
         <Item>
-          <Name>ShowToolbar</Name>
-          <Type>SettingItemBoolean</Type>
-          <Value>false</Value>
-        </Item>
-        <Item>
           <Name>ShowTableHeader</Name>
           <Type>SettingItemBoolean</Type>
           <Value>true</Value>
@@ -1671,6 +1671,11 @@
             <Value>false</Value>
           </Item>
         </Item>
+        <Item>
+          <Name>UseSticking</Name>
+          <Type>SettingItemBoolean</Type>
+          <Value>true</Value>
+        </Item>
       </Item>
     </Item>
     <Item>
@@ -1682,7 +1687,7 @@
         <Item>
           <Name>width</Name>
           <Type>SettingItemInteger</Type>
-          <Value>335</Value>
+          <Value>449</Value>
         </Item>
         <Item>
           <Name>height</Name>
@@ -1702,7 +1707,7 @@
         <Item>
           <Name>restoreWidth</Name>
           <Type>SettingItemInteger</Type>
-          <Value>335</Value>
+          <Value>449</Value>
         </Item>
         <Item>
           <Name>restoreHeight</Name>
@@ -1737,14 +1742,14 @@
           <Name>CurrentSymbol</Name>
           <Type>SettingItemSymbol</Type>
           <BusinessObjectInfo>
-            <Id>F.US.ENQU25</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>ENQU25</Name>
-            <ExchangeId>EMiniCME</ExchangeId>
+            <Id>NQZ5@CME</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>NQZ5</Name>
+            <ExchangeId>CME</ExchangeId>
             <SymbolType>Futures</SymbolType>
             <FuturesContractType>Contract</FuturesContractType>
-            <Root>ENQ</Root>
-            <ExpirationTime>2025-09-19T00:00:00</ExpirationTime>
+            <Root>NQ</Root>
+            <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
           </BusinessObjectInfo>
         </Item>
         <Item>
@@ -2976,7 +2981,7 @@
         <Item>
           <Name>vKoef</Name>
           <Type>SettingItemDouble</Type>
-          <Value>1</Value>
+          <Value>1.002008032128514</Value>
         </Item>
       </Item>
     </Item>
@@ -2994,7 +2999,7 @@
         <Item>
           <Name>height</Name>
           <Type>SettingItemInteger</Type>
-          <Value>916</Value>
+          <Value>946</Value>
         </Item>
         <Item>
           <Name>left</Name>
@@ -3044,23 +3049,23 @@
           <Name>CurrentSymbol</Name>
           <Type>SettingItemSymbol</Type>
           <BusinessObjectInfo>
-            <Id>F.US.ENQU25</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>ENQU25</Name>
-            <ExchangeId>EMiniCME</ExchangeId>
+            <Id>NQZ5@CME</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>NQZ5</Name>
+            <ExchangeId>CME</ExchangeId>
             <SymbolType>Futures</SymbolType>
             <FuturesContractType>Contract</FuturesContractType>
-            <Root>ENQ</Root>
-            <ExpirationTime>2025-09-19T00:00:00</ExpirationTime>
+            <Root>NQ</Root>
+            <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
           </BusinessObjectInfo>
         </Item>
         <Item>
           <Name>CurrentAccount</Name>
           <Type>SettingItemAccount</Type>
           <BusinessObjectInfo>
-            <Id>BzHWUEmQlcgx2kTjaViLbQ82YGx3SY3ISyywN9lIBMs=</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>4rRYkxeLHgv5m6isBWjkLbSKAQx0A+g4FHQst8ukJ0o=</Name>
+            <Id>sqHYQkJ+HcXjmVsr2h8hrMTdWddcnd6OpOeoU0kx2jA=</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>KKbni42idUP6o9CB2GJPXoGZrqGayfZUGVsoUi20g8PtznUwIQwcz3cUTKUFukJx8B2agYaDmHFvAYXG3UW9Kqgysvk1YoseTGvokppyIXs=</Name>
             <IsCrypto>false</IsCrypto>
           </BusinessObjectInfo>
         </Item>
@@ -3264,12 +3269,48 @@
             </Item>
           </Item>
           <Item>
+            <Name>cancel_closest_buy</Name>
+            <Type>SettingItemGroup</Type>
+            <Item>
+              <Name>cancel_closest_buy.show</Name>
+              <Type>SettingItemBoolean</Type>
+              <Value>false</Value>
+            </Item>
+          </Item>
+          <Item>
+            <Name>cancel_furthest_buy</Name>
+            <Type>SettingItemGroup</Type>
+            <Item>
+              <Name>cancel_furthest_buy.show</Name>
+              <Type>SettingItemBoolean</Type>
+              <Value>false</Value>
+            </Item>
+          </Item>
+          <Item>
             <Name>cancelsell</Name>
             <Type>SettingItemGroup</Type>
             <Item>
               <Name>cancelsell.show</Name>
               <Type>SettingItemBoolean</Type>
               <Value>true</Value>
+            </Item>
+          </Item>
+          <Item>
+            <Name>cancel_closest_sell</Name>
+            <Type>SettingItemGroup</Type>
+            <Item>
+              <Name>cancel_closest_sell.show</Name>
+              <Type>SettingItemBoolean</Type>
+              <Value>false</Value>
+            </Item>
+          </Item>
+          <Item>
+            <Name>cancel_furthest_sell</Name>
+            <Type>SettingItemGroup</Type>
+            <Item>
+              <Name>cancel_furthest_sell.show</Name>
+              <Type>SettingItemBoolean</Type>
+              <Value>false</Value>
             </Item>
           </Item>
           <Item>
@@ -3291,6 +3332,11 @@
             </Item>
           </Item>
         </Item>
+        <Item>
+          <Name>Alignment</Name>
+          <Type>SettingItemSelectorLocalized</Type>
+          <Value>1</Value>
+        </Item>
       </Item>
     </Item>
     <Item>
@@ -3302,7 +3348,7 @@
         <Item>
           <Name>width</Name>
           <Type>SettingItemInteger</Type>
-          <Value>1188</Value>
+          <Value>1602</Value>
         </Item>
         <Item>
           <Name>height</Name>
@@ -3312,7 +3358,7 @@
         <Item>
           <Name>left</Name>
           <Type>SettingItemInteger</Type>
-          <Value>410</Value>
+          <Value>318</Value>
         </Item>
         <Item>
           <Name>top</Name>
@@ -3322,7 +3368,7 @@
         <Item>
           <Name>restoreWidth</Name>
           <Type>SettingItemInteger</Type>
-          <Value>1188</Value>
+          <Value>1602</Value>
         </Item>
         <Item>
           <Name>restoreHeight</Name>
@@ -3332,7 +3378,7 @@
         <Item>
           <Name>restoreLeft</Name>
           <Type>SettingItemInteger</Type>
-          <Value>410</Value>
+          <Value>318</Value>
         </Item>
         <Item>
           <Name>restoreTop</Name>
@@ -3357,23 +3403,23 @@
           <Name>CurrentSymbol</Name>
           <Type>SettingItemSymbol</Type>
           <BusinessObjectInfo>
-            <Id>F.US.ENQU25</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>ENQU25</Name>
-            <ExchangeId>EMiniCME</ExchangeId>
+            <Id>NQZ5@CME</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>NQZ5</Name>
+            <ExchangeId>CME</ExchangeId>
             <SymbolType>Futures</SymbolType>
             <FuturesContractType>Contract</FuturesContractType>
-            <Root>ENQ</Root>
-            <ExpirationTime>2025-09-19T00:00:00</ExpirationTime>
+            <Root>NQ</Root>
+            <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
           </BusinessObjectInfo>
         </Item>
         <Item>
           <Name>CurrentAccount</Name>
           <Type>SettingItemAccount</Type>
           <BusinessObjectInfo>
-            <Id>6geNGTr2hhxur8p1IrwdJhZX1OvcQeQaTls0MSIftlo=</Id>
-            <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-            <Name>YaSnOfB9iAHB7V+WU0xqipfUrEtb0GUDMTLKtCo7u4g=</Name>
+            <Id>5MFQwbqgsED6ZEsmsl6sqCPEQLC8mCiq7NqlxyMjCQY=</Id>
+            <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+            <Name>zk9RZok4hW/D/UfeGafy/mZNuFotR6oNAHk1IBtO61o4pBf+YNdsJHJtac7QgzoIEF88OvZ8esKDvapIhxAWwVG/VCuC+QNRD9nkrK6dpTI=</Name>
             <IsCrypto>false</IsCrypto>
           </BusinessObjectInfo>
         </Item>
@@ -3511,7 +3557,7 @@
           <Item>
             <Name>scaleX</Name>
             <Type>SettingItemDouble</Type>
-            <Value>9</Value>
+            <Value>11</Value>
           </Item>
           <Item>
             <Name>PriceScaleGroup</Name>
@@ -3660,17 +3706,17 @@
             <Item>
               <Name>infowindow_Docked</Name>
               <Type>SettingItemInteger</Type>
-              <Value>1</Value>
+              <Value>0</Value>
             </Item>
             <Item>
               <Name>infowindow_fx</Name>
               <Type>SettingItemInteger</Type>
-              <Value>3</Value>
+              <Value>1027</Value>
             </Item>
             <Item>
               <Name>infowindow_fy</Name>
               <Type>SettingItemInteger</Type>
-              <Value>3</Value>
+              <Value>24</Value>
             </Item>
             <Item>
               <Name>SortIndexItems</Name>
@@ -3679,6 +3725,11 @@
                 <Name>Bar sortIndex</Name>
                 <Type>SettingItemInteger</Type>
                 <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>Absolute bar sortIndex</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>1</Value>
               </Item>
               <Item>
                 <Name>Date sortIndex</Name>
@@ -3769,7 +3820,7 @@
             <Item>
               <Name>chart.infoWindow.displayVariants</Name>
               <Type>SettingItemSelectorLocalized</Type>
-              <Value>1</Value>
+              <Value>0</Value>
             </Item>
             <Item>
               <Name>chart.infoWindow.shortMode</Name>
@@ -3789,6 +3840,11 @@
                   <Name>IsBarVisible</Name>
                   <Type>SettingItemBoolean</Type>
                   <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>IsAbsolute barVisible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>false</Value>
                 </Item>
                 <Item>
                   <Name>IsDateVisible</Name>
@@ -4649,7 +4705,7 @@
               <Item>
                 <Name>ShowTrades</Name>
                 <Type>SettingItemBooleanSwitcher</Type>
-                <Value>true</Value>
+                <Value>false</Value>
               </Item>
               <Item>
                 <Name>TradeMarkerColor</Name>
@@ -5541,7 +5597,7 @@
               <Item>
                 <Name>ScriptKey</Name>
                 <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyBalanceIndicator|SpyMoneyBalanceIndicator|SpyMoneyBalanceIndicator</Value>
+                <Value>Default|_SpyMoney|SpyMoneyBalanceIndicator|SpyMoneyBalanceIndicator</Value>
               </Item>
               <Item>
                 <Name>Line_0</Name>
@@ -5579,7 +5635,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>599</Value>
+                  <Value>815</Value>
                 </Item>
               </Item>
               <Item>
@@ -5674,1075 +5730,12 @@
               </Item>
             </Item>
             <Item>
-              <Name>SpyMoneyFloorTraderIndicator</Name>
-              <Type>SettingItemGroup</Type>
-              <Item>
-                <Name>ScriptKey</Name>
-                <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyFloorTraderIndicator|SpyMoneyFloorTraderIndicator|SpyMoneyFloorTraderIndicator</Value>
-              </Item>
-              <Item>
-                <Name>TimeFrameConfig</Name>
-                <Type>SettingItemTimeFrameConfig</Type>
-                <TimeFrameConfig />
-              </Item>
-              <Item>
-                <Name>UpdateType</Name>
-                <Type>SettingItemSelectorLocalized</Type>
-                <Value>0</Value>
-              </Item>
-              <Item>
-                <Name>PlotPreviousDay</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>LabelFlag</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>ShowPrices</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>ShowHighLow</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
-              </Item>
-              <Item>
-                <Name>CurR1Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurR2Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurR3Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurP0Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurS1Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurS2Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CurS3Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>DayHighColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,0,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>DayLowColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>128,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvDayHighColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,0,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvDayLowColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>128,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvR1Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvR2Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvR3Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvP0Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvS1Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvS2Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PrvS3Color</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>Parameters</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>IndicatorPosition</Name>
-                  <Type>SettingItemSelectorLocalized</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>indicator.visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>allowFitAuto</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-              </Item>
-            </Item>
-            <Item>
-              <Name>SpyMoneyLevelsAutoIndicator</Name>
-              <Type>SettingItemGroup</Type>
-              <Item>
-                <Name>ScriptKey</Name>
-                <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyLevelsAutoIndicator|SpyMoneyLevelsAutoIndicator|SpyMoneyLevelsAutoIndicator</Value>
-              </Item>
-              <Item>
-                <Name>Line_0</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>255,255,255,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>600</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_1</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>255,255,255,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>601</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_2</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>169,169,169,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>602</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_3</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>169,169,169,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>603</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_4</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>0,0,255,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>604</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_5</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>0,0,255,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>605</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_6</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>0,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>606</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_7</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>0,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>607</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>TimeFrameConfig</Name>
-                <Type>SettingItemTimeFrameConfig</Type>
-                <TimeFrameConfig />
-              </Item>
-              <Item>
-                <Name>UpdateType</Name>
-                <Type>SettingItemSelectorLocalized</Type>
-                <Value>0</Value>
-              </Item>
-              <Item>
-                <Name>CS_High</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>CS_Low</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>CS_Open</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>CS_Mid</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>CS_High_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>CS High</Value>
-              </Item>
-              <Item>
-                <Name>CS_Low_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>CS Low</Value>
-              </Item>
-              <Item>
-                <Name>CS_Open_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>CS Open</Value>
-              </Item>
-              <Item>
-                <Name>CS_Mid_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>CS Mid</Value>
-              </Item>
-              <Item>
-                <Name>PS_High</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>PS_Low</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>PS_Open</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>PS_Close</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>PS_High_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>PS High</Value>
-              </Item>
-              <Item>
-                <Name>PS_Low_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>PS Low</Value>
-              </Item>
-              <Item>
-                <Name>PS_Open_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>PS Open</Value>
-              </Item>
-              <Item>
-                <Name>PS_Close_Text</Name>
-                <Type>SettingItemString</Type>
-                <Value>PS Close</Value>
-              </Item>
-              <Item>
-                <Name>ShowPrevSessionLines</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>ShowTextLabels</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>ShowManualLines</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>CSLevelsHighColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CSLevelsLowColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CSLevelsOpenColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>169,169,169,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>CSLevelsMidColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>169,169,169,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PSLevelsHighColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,0,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PSLevelsLowColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,0,255,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PSLevelsOpenColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,128,128,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PSLevelsCloseColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,128,128,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>PSCloseCSOpenZone</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>PSCloseCSOpenZoneOpacity</Name>
-                <Type>SettingItemInteger</Type>
-                <Value>3</Value>
-              </Item>
-              <Item>
-                <Name>PSCloseCSOpenZoneColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>Parameters</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>IndicatorPosition</Name>
-                  <Type>SettingItemSelectorLocalized</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>indicator.visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>allowFitAuto</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-              </Item>
-            </Item>
-            <Item>
-              <Name>SpyMoneyVWAPIndicator</Name>
-              <Type>SettingItemGroup</Type>
-              <Item>
-                <Name>ScriptKey</Name>
-                <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyVWAPIndicator|SpyMoneyVWAPIndicator|SpyMoneyVWAPIndicator</Value>
-              </Item>
-              <Item>
-                <Name>Line_0</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>2</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>255,0,0,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>608</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_1</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>128,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>609</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_2</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>128,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>610</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_3</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>128,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>611</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_4</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>128,128,128,255</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>612</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>Line_5</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>Visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>Line</Name>
-                  <Type>SettingItemLineOptions</Type>
-                  <LineOptions>
-                    <Enabled>false</Enabled>
-                    <WithCheckBox>false</WithCheckBox>
-                    <WithNumeric>true</WithNumeric>
-                    <WithColor>true</WithColor>
-                    <Font></Font>
-                    <Width>1</Width>
-                    <MaximumWidth>10</MaximumWidth>
-                    <Color>255,255,255,0</Color>
-                    <LineStyle>0</LineStyle>
-                  </LineOptions>
-                </Item>
-                <Item>
-                  <Name>Time shift</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>Show line marker</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>LineSeriesId</Name>
-                  <Type>SettingItemInteger</Type>
-                  <Value>613</Value>
-                </Item>
-              </Item>
-              <Item>
-                <Name>TimeFrameConfig</Name>
-                <Type>SettingItemTimeFrameConfig</Type>
-                <TimeFrameConfig />
-              </Item>
-              <Item>
-                <Name>UpdateType</Name>
-                <Type>SettingItemSelectorLocalized</Type>
-                <Value>0</Value>
-              </Item>
-              <Item>
-                <Name>EnableSD</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>true</Value>
-              </Item>
-              <Item>
-                <Name>StdDev1</Name>
-                <Type>SettingItemDouble</Type>
-                <Value>1</Value>
-              </Item>
-              <Item>
-                <Name>StdDev2</Name>
-                <Type>SettingItemDouble</Type>
-                <Value>2</Value>
-              </Item>
-              <Item>
-                <Name>PeriodType</Name>
-                <Type>SettingItemSelectorLocalized</Type>
-                <Value>0</Value>
-              </Item>
-              <Item>
-                <Name>EnableAboveBelowVWAPColors</Name>
-                <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
-              </Item>
-              <Item>
-                <Name>VWAPRisingColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>VWAPFallingColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>255,255,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>VWAPCloudOpacity</Name>
-                <Type>SettingItemInteger</Type>
-                <Value>20</Value>
-              </Item>
-              <Item>
-                <Name>AboveVWAPColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>0,139,139,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>BelowVWAPColor</Name>
-                <Type>SettingItemColor</Type>
-                <Color>139,0,0,255</Color>
-                <Checked>false</Checked>
-                <WithCheckBox>false</WithCheckBox>
-                <AllowDisableColor>false</AllowDisableColor>
-              </Item>
-              <Item>
-                <Name>Parameters</Name>
-                <Type>SettingItemGroup</Type>
-                <Item>
-                  <Name>IndicatorPosition</Name>
-                  <Type>SettingItemSelectorLocalized</Type>
-                  <Value>0</Value>
-                </Item>
-                <Item>
-                  <Name>indicator.visible</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>true</Value>
-                </Item>
-                <Item>
-                  <Name>allowFitAuto</Name>
-                  <Type>SettingItemBoolean</Type>
-                  <Value>false</Value>
-                </Item>
-              </Item>
-            </Item>
-            <Item>
               <Name>SpyMoneyCoasterIndicator</Name>
               <Type>SettingItemGroup</Type>
               <Item>
                 <Name>ScriptKey</Name>
                 <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyCoasterIndicator|SpyMoneyCoasterIndicator|SpyMoneyCoasterIndicator</Value>
+                <Value>Default|_SpyMoney|SpyMoneyCoasterIndicator|SpyMoneyCoasterIndicator</Value>
               </Item>
               <Item>
                 <Name>Line_0</Name>
@@ -6780,7 +5773,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>614</Value>
+                  <Value>816</Value>
                 </Item>
               </Item>
               <Item>
@@ -6819,7 +5812,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>615</Value>
+                  <Value>817</Value>
                 </Item>
               </Item>
               <Item>
@@ -6840,7 +5833,7 @@
               <Item>
                 <Name>ColorBars</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
               <Item>
                 <Name>LongBarColor</Name>
@@ -7728,12 +6721,214 @@
               </Item>
             </Item>
             <Item>
-              <Name>SpyMoneyLenderIndicator</Name>
+              <Name>SpyMoneyFloorTraderIndicator</Name>
               <Type>SettingItemGroup</Type>
               <Item>
                 <Name>ScriptKey</Name>
                 <Type>SettingItemString</Type>
-                <Value>Default|SpyMoneyIndicators\SpyMoneyLenderIndicator|SpyMoneyLenderIndicator|SpyMoneyLenderIndicator</Value>
+                <Value>Default|_SpyMoney|SpyMoneyFloorTraderIndicator|SpyMoneyFloorTraderIndicator</Value>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>PlotPreviousDay</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>LabelFlag</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>ShowPrices</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>ShowHighLow</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>CurR1Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurR2Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurR3Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurP0Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurS1Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurS2Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CurS3Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>DayHighColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,0,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>DayLowColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>128,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvDayHighColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,0,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvDayLowColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>128,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvR1Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvR2Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvR3Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvP0Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvS1Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvS2Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PrvS3Color</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyLevelsAutoIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyLevelsAutoIndicator|SpyMoneyLevelsAutoIndicator</Value>
               </Item>
               <Item>
                 <Name>Line_0</Name>
@@ -7741,7 +6936,1995 @@
                 <Item>
                   <Name>Visible</Name>
                   <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,255,255,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>818</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_1</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,255,255,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>819</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_2</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>169,169,169,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>820</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_3</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>169,169,169,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>821</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_4</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>0,0,255,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>822</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_5</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>0,0,255,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>823</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_6</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>0,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>824</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_7</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>0,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>825</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>CS_High</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>CS_Low</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>CS_Open</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>CS_Mid</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>CS_High_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>CS High</Value>
+              </Item>
+              <Item>
+                <Name>CS_Low_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>CS Low</Value>
+              </Item>
+              <Item>
+                <Name>CS_Open_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>CS Open</Value>
+              </Item>
+              <Item>
+                <Name>CS_Mid_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>CS Mid</Value>
+              </Item>
+              <Item>
+                <Name>PS_High</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>PS_Low</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>PS_Open</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>PS_Close</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>PS_High_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>PS High</Value>
+              </Item>
+              <Item>
+                <Name>PS_Low_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>PS Low</Value>
+              </Item>
+              <Item>
+                <Name>PS_Open_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>PS Open</Value>
+              </Item>
+              <Item>
+                <Name>PS_Close_Text</Name>
+                <Type>SettingItemString</Type>
+                <Value>PS Close</Value>
+              </Item>
+              <Item>
+                <Name>ShowPrevSessionLines</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>ShowTextLabels</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>ShowManualLines</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>CSLevelsHighColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CSLevelsLowColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CSLevelsOpenColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>169,169,169,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>CSLevelsMidColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>169,169,169,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PSLevelsHighColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,0,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PSLevelsLowColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,0,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PSLevelsOpenColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,128,128,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PSLevelsCloseColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,128,128,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>PSCloseCSOpenZone</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>PSCloseCSOpenZoneOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>PSCloseCSOpenZoneColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyManowarIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyManowarIndicator|SpyMoneyManowarIndicator</Value>
+              </Item>
+              <Item>
+                <Name>Line_0</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>3</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>95,158,160,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>826</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframe</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>SmoothingPeriod</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>21</Value>
+              </Item>
+              <Item>
+                <Name>ConstantD</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>0.4</Value>
+              </Item>
+              <Item>
+                <Name>StrictMode</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>AtrPeriod</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>21</Value>
+              </Item>
+              <Item>
+                <Name>AtrFactor</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>LineLongColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,0,255,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>LineShortColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>LineNeutralColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,165,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>LineOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>ColorBars</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>BarLongColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,128,128,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BarShortColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>250,240,230,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BarNeutralColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,165,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BarOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>ColorBackground</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>BackgroundOverUnder</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>BackgroundLongColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,128,128,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BackgroundShortColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>250,240,230,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BackgroundNeutralColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,165,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BackgroundOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>SoundAlertsEnabled</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframetimeframe</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframetickValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>500</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframetimePeriod</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframetimeValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>5</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframehaValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframehaBuildFrom</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerangeTicks</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>10</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerenkoBuildFrom</Name>
+                <Type>SettingItemPeriod</Type>
+                <Period>
+                  <Value>
+                    <Period>
+                      <BasePeriod>0</BasePeriod>
+                      <PeriodMultiplyer>1</PeriodMultiplyer>
+                    </Period>
+                  </Value>
+                </Period>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerenkoBrickSize</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>10</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerenkoStyle</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerenkoExtension</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframerenkoInversion</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframelineBreakBuildFrom</Name>
+                <Type>SettingItemPeriod</Type>
+                <Period>
+                  <Value>
+                    <Period>
+                      <BasePeriod>2</BasePeriod>
+                      <PeriodMultiplyer>15</PeriodMultiplyer>
+                    </Period>
+                  </Value>
+                </Period>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframelineBreakValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>3</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframekagiBuildFrom</Name>
+                <Type>SettingItemPeriod</Type>
+                <Period>
+                  <Value>
+                    <Period>
+                      <BasePeriod>2</BasePeriod>
+                      <PeriodMultiplyer>15</PeriodMultiplyer>
+                    </Period>
+                  </Value>
+                </Period>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframekagiReversal</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>10</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframepfBuildFrom</Name>
+                <Type>SettingItemPeriod</Type>
+                <Period>
+                  <Value>
+                    <Period>
+                      <BasePeriod>2</BasePeriod>
+                      <PeriodMultiplyer>1</PeriodMultiplyer>
+                    </Period>
+                  </Value>
+                </Period>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframepfBoxSize</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>5</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframepfReversal</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>3</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframepfStyle</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframevolumeValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>1000</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframereversalLength</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>13</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframereversalReversalLength</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>5</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframedeltaBarsValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>1000</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframepriceChangesCountBarsTicksCount</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>IsChartTimeframespyMoneyBarsValue</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyNewsAlerts</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyNewsAlerts|SpyMoneyNewsAlerts</Value>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>HighImpactColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>HighImpactWidth</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>MediumImpactColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,165,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>MediumImpactWidth</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>LowImpactColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,255,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>LowImpactWidth</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>Opacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>50</Value>
+              </Item>
+              <Item>
+                <Name>NewsDays</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyVWAPIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyVWAPIndicator|SpyMoneyVWAPIndicator</Value>
+              </Item>
+              <Item>
+                <Name>Line_0</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>2</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,0,0,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>827</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_1</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>828</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_2</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>829</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_3</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>830</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_4</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>831</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_5</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,255,255,0</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>832</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>EnableSD</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>StdDev1</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>StdDev2</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>PeriodType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>EnableAboveBelowVWAPColors</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>VWAPRisingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPFallingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>255,255,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPCloudOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>AboveVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,139,139,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BelowVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>139,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
                   <Value>false</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyVWAPIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyVWAPIndicator|SpyMoneyVWAPIndicator</Value>
+              </Item>
+              <Item>
+                <Name>Line_0</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>2</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,0,0,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>833</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_1</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>834</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_2</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>835</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_3</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>836</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_4</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>837</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_5</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,255,255,0</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>838</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>EnableSD</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>StdDev1</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>StdDev2</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>PeriodType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>EnableAboveBelowVWAPColors</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>VWAPRisingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>14,226,14,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPFallingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>14,226,14,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPCloudOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>AboveVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,139,139,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BelowVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>139,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>false</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyVWAPIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyVWAPIndicator|SpyMoneyVWAPIndicator</Value>
+              </Item>
+              <Item>
+                <Name>Line_0</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>2</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,0,0,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>839</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_1</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>840</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_2</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>841</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_3</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>842</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_4</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>128,128,128,255</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>843</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>Line_5</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>Line</Name>
+                  <Type>SettingItemLineOptions</Type>
+                  <LineOptions>
+                    <Enabled>false</Enabled>
+                    <WithCheckBox>false</WithCheckBox>
+                    <WithNumeric>true</WithNumeric>
+                    <WithColor>true</WithColor>
+                    <Font></Font>
+                    <Width>1</Width>
+                    <MaximumWidth>10</MaximumWidth>
+                    <Color>255,255,255,0</Color>
+                    <LineStyle>0</LineStyle>
+                  </LineOptions>
+                </Item>
+                <Item>
+                  <Name>Time shift</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>Show line marker</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>LineSeriesId</Name>
+                  <Type>SettingItemInteger</Type>
+                  <Value>844</Value>
+                </Item>
+              </Item>
+              <Item>
+                <Name>TimeFrameConfig</Name>
+                <Type>SettingItemTimeFrameConfig</Type>
+                <TimeFrameConfig />
+              </Item>
+              <Item>
+                <Name>UpdateType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>EnableSD</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>StdDev1</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>1</Value>
+              </Item>
+              <Item>
+                <Name>StdDev2</Name>
+                <Type>SettingItemDouble</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>PeriodType</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>0</Value>
+              </Item>
+              <Item>
+                <Name>EnableAboveBelowVWAPColors</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+              <Item>
+                <Name>VWAPRisingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>251,34,13,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPFallingColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>251,34,13,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>VWAPCloudOpacity</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>AboveVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,139,139,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>BelowVWAPColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>139,0,0,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>false</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Parameters</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>IndicatorPosition</Name>
+                  <Type>SettingItemSelectorLocalized</Type>
+                  <Value>0</Value>
+                </Item>
+                <Item>
+                  <Name>indicator.visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
+                </Item>
+                <Item>
+                  <Name>allowFitAuto</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>false</Value>
+                </Item>
+              </Item>
+            </Item>
+            <Item>
+              <Name>SpyMoneyLenderIndicator</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>ScriptKey</Name>
+                <Type>SettingItemString</Type>
+                <Value>Default|_SpyMoney|SpyMoneyLenderIndicator|SpyMoneyLenderIndicator</Value>
+              </Item>
+              <Item>
+                <Name>Line_0</Name>
+                <Type>SettingItemGroup</Type>
+                <Item>
+                  <Name>Visible</Name>
+                  <Type>SettingItemBoolean</Type>
+                  <Value>true</Value>
                 </Item>
                 <Item>
                   <Name>Line</Name>
@@ -7771,7 +8954,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>619</Value>
+                  <Value>845</Value>
                 </Item>
               </Item>
               <Item>
@@ -7813,7 +8996,7 @@
               <Item>
                 <Name>ShowBackground</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
               <Item>
                 <Name>BackgroundLongColor</Name>
@@ -8029,7 +9212,7 @@
               <Item>
                 <Name>HeightKoef</Name>
                 <Type>SettingItemDouble</Type>
-                <Value>139.54800637958596</Value>
+                <Value>137.45752800079342</Value>
               </Item>
               <Item>
                 <Name>PlateRenderers</Name>
@@ -8045,7 +9228,7 @@
                   <Item>
                     <Name>IndicatorGroupCollapsed</Name>
                     <Type>SettingItemBoolean</Type>
-                    <Value>false</Value>
+                    <Value>true</Value>
                   </Item>
                 </Item>
               </Item>
@@ -8061,7 +9244,7 @@
               <Item>
                 <Name>HeightKoef</Name>
                 <Type>SettingItemDouble</Type>
-                <Value>10.539712918660289</Value>
+                <Value>12.627217761918939</Value>
               </Item>
               <Item>
                 <Name>PlateRenderers</Name>
@@ -11314,6 +12497,36 @@
                 <AllowDisableColor2>false</AllowDisableColor2>
               </Item>
               <Item>
+                <Name>Custom range:DefaultColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,86,108,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>true</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Custom range:DeltaColor</Name>
+                <Type>SettingItemPairColor</Type>
+                <PairColor>
+                  <Color1>0,178,89,255</Color1>
+                  <Color2>251,87,87,255</Color2>
+                </PairColor>
+                <Checked>false</Checked>
+                <WithCheckBox>true</WithCheckBox>
+                <AllowDisableColor1>false</AllowDisableColor1>
+                <AllowDisableColor2>false</AllowDisableColor2>
+              </Item>
+              <Item>
+                <Name>Custom range:From</Name>
+                <Type>SettingItemDateTime</Type>
+                <Value>01102025 04:00:00.000000</Value>
+              </Item>
+              <Item>
+                <Name>Custom range:To</Name>
+                <Type>SettingItemDateTime</Type>
+                <Value>02102025 04:00:00.000000</Value>
+              </Item>
+              <Item>
                 <Name>MaxColor</Name>
                 <Type>SettingItemPairColor</Type>
                 <PairColor>
@@ -11617,6 +12830,36 @@
                 <WithCheckBox>true</WithCheckBox>
                 <AllowDisableColor1>false</AllowDisableColor1>
                 <AllowDisableColor2>false</AllowDisableColor2>
+              </Item>
+              <Item>
+                <Name>Custom range:DefaultColor</Name>
+                <Type>SettingItemColor</Type>
+                <Color>0,86,108,255</Color>
+                <Checked>false</Checked>
+                <WithCheckBox>true</WithCheckBox>
+                <AllowDisableColor>false</AllowDisableColor>
+              </Item>
+              <Item>
+                <Name>Custom range:DeltaColor</Name>
+                <Type>SettingItemPairColor</Type>
+                <PairColor>
+                  <Color1>0,178,89,255</Color1>
+                  <Color2>251,87,87,255</Color2>
+                </PairColor>
+                <Checked>false</Checked>
+                <WithCheckBox>true</WithCheckBox>
+                <AllowDisableColor1>false</AllowDisableColor1>
+                <AllowDisableColor2>false</AllowDisableColor2>
+              </Item>
+              <Item>
+                <Name>Custom range:From</Name>
+                <Type>SettingItemDateTime</Type>
+                <Value>01102025 04:00:00.000000</Value>
+              </Item>
+              <Item>
+                <Name>Custom range:To</Name>
+                <Type>SettingItemDateTime</Type>
+                <Value>02102025 04:00:00.000000</Value>
               </Item>
               <Item>
                 <Name>MaxColor</Name>
@@ -13442,12 +14685,54 @@
             <Name>Aggregation</Name>
             <Type>SettingItemGroup</Type>
             <Item>
-              <Name>Spy money bars</Name>
+              <Name>Renko</Name>
               <Type>SettingItemGroup</Type>
               <Item>
-                <Name>barsPeriodValue</Name>
+                <Name>Period</Name>
+                <Type>SettingItemPeriod</Type>
+                <Period>
+                  <Value>
+                    <Period>
+                      <BasePeriod>0</BasePeriod>
+                      <PeriodMultiplyer>1</PeriodMultiplyer>
+                    </Period>
+                  </Value>
+                </Period>
+              </Item>
+              <Item>
+                <Name>History type</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>3</Value>
+              </Item>
+              <Item>
+                <Name>Brick size</Name>
                 <Type>SettingItemInteger</Type>
-                <Value>40</Value>
+                <Value>20</Value>
+              </Item>
+              <Item>
+                <Name>Style</Name>
+                <Type>SettingItemSelectorLocalized</Type>
+                <Value>2</Value>
+              </Item>
+              <Item>
+                <Name>Extension, %</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>50</Value>
+              </Item>
+              <Item>
+                <Name>Inversion, %</Name>
+                <Type>SettingItemInteger</Type>
+                <Value>100</Value>
+              </Item>
+              <Item>
+                <Name>Show wicks</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
+              </Item>
+              <Item>
+                <Name>Build current bar</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>true</Value>
               </Item>
             </Item>
           </Item>
@@ -13500,7 +14785,7 @@
           <Item>
             <Name>AspectRatio</Name>
             <Type>SettingItemDouble</Type>
-            <Value>0.42379895500994574</Value>
+            <Value>0.6995510662177539</Value>
           </Item>
         </Item>
         <Item>
@@ -13524,7 +14809,7 @@
         <Item>
           <Name>ShowVABar</Name>
           <Type>SettingItemBoolean</Type>
-          <Value>true</Value>
+          <Value>false</Value>
         </Item>
         <Item>
           <Name>ShowQuickOE</Name>
@@ -13583,23 +14868,23 @@
             <Name>CurrentSymbol</Name>
             <Type>SettingItemSymbol</Type>
             <BusinessObjectInfo>
-              <Id>F.US.ENQU25</Id>
-              <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-              <Name>ENQU25</Name>
-              <ExchangeId>EMiniCME</ExchangeId>
+              <Id>NQZ5@CME</Id>
+              <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+              <Name>NQZ5</Name>
+              <ExchangeId>CME</ExchangeId>
               <SymbolType>Futures</SymbolType>
               <FuturesContractType>Contract</FuturesContractType>
-              <Root>ENQ</Root>
-              <ExpirationTime>2025-09-19T00:00:00</ExpirationTime>
+              <Root>NQ</Root>
+              <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
             </BusinessObjectInfo>
           </Item>
           <Item>
             <Name>CurrentAccount</Name>
             <Type>SettingItemAccount</Type>
             <BusinessObjectInfo>
-              <Id>NWslf6Sr0hbiCqA2JzRuaWsZPIl6SUvbRC9hsGiAcx4=</Id>
-              <ConnectionId>CQG-AMP/CQG-Default-AMP/CQG</ConnectionId>
-              <Name>+A1M6TU3oiMuggtUYafVcvtznGdWeJs42gGmAH5HKCQ=</Name>
+              <Id>D/DLvuLySWjaGuQ+mbFyTDbOG9eYbwSA2zoe7by1FP8=</Id>
+              <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+              <Name>l0D2yvbZjnfhBYF9qkAGg9MYw9EgObRYEShBjv33NLohvZR3saEVdz8nXbMn0Qk6af0nJF6nXq6qsAnK+8vL8HEm5uH1PwCt2dDBoLRsgKg=</Name>
               <IsCrypto>false</IsCrypto>
             </BusinessObjectInfo>
           </Item>
@@ -13803,12 +15088,48 @@
               </Item>
             </Item>
             <Item>
+              <Name>cancel_closest_buy</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>cancel_closest_buy.show</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+            </Item>
+            <Item>
+              <Name>cancel_furthest_buy</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>cancel_furthest_buy.show</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+            </Item>
+            <Item>
               <Name>cancelsell</Name>
               <Type>SettingItemGroup</Type>
               <Item>
                 <Name>cancelsell.show</Name>
                 <Type>SettingItemBoolean</Type>
                 <Value>true</Value>
+              </Item>
+            </Item>
+            <Item>
+              <Name>cancel_closest_sell</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>cancel_closest_sell.show</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
+              </Item>
+            </Item>
+            <Item>
+              <Name>cancel_furthest_sell</Name>
+              <Type>SettingItemGroup</Type>
+              <Item>
+                <Name>cancel_furthest_sell.show</Name>
+                <Type>SettingItemBoolean</Type>
+                <Value>false</Value>
               </Item>
             </Item>
             <Item>
@@ -13830,16 +15151,21 @@
               </Item>
             </Item>
           </Item>
+          <Item>
+            <Name>Alignment</Name>
+            <Type>SettingItemSelectorLocalized</Type>
+            <Value>1</Value>
+          </Item>
         </Item>
         <Item>
           <Name>vKoef</Name>
           <Type>SettingItemDouble</Type>
-          <Value>3.980000000000008</Value>
+          <Value>3.948051948051948</Value>
         </Item>
         <Item>
           <Name>vKoef2</Name>
           <Type>SettingItemDouble</Type>
-          <Value>1.9800000000000022</Value>
+          <Value>1.9437229437229437</Value>
         </Item>
         <Item>
           <Name>EnableEventTrading</Name>
