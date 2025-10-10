@@ -7,7 +7,7 @@
       <Name>refresh_token</Name>
       <Type>SettingItemPassword</Type>
       <PasswordHolder>
-        <Password>y9K+BcyJEqruhV+9pSUMW2LXMa50E4mBlp9+hwn5iyIBihTUcOWdkQsO26Q9fNx/57WXmACBP3MVmakYY5w9RA==</Password>
+        <Password>FjKBA6nUhEt/YfSSKTmsJocPTA5cWQvgHRiQjMuom5NFcS+FULPLju6ovBjh4e4ojKTYCys44iS9mex30qQZ0g==</Password>
         <SavePassword>true</SavePassword>
       </PasswordHolder>
     </Item>
@@ -1022,7 +1022,7 @@
       <Item>
         <Name>IsFavourite</Name>
         <Type>SettingItemBoolean</Type>
-        <Value>true</Value>
+        <Value>false</Value>
       </Item>
       <Item>
         <Name>ConnectionState</Name>
@@ -8568,7 +8568,7 @@
       <Item>
         <Name>ConnectionState</Name>
         <Type>SettingItemInteger</Type>
-        <Value>0</Value>
+        <Value>2</Value>
       </Item>
       <Item>
         <Name>CreationType</Name>
@@ -8581,7 +8581,7 @@
         <Item>
           <Name>User</Name>
           <Type>SettingItemString</Type>
-          <Value>APEX-78578</Value>
+          <Value></Value>
         </Item>
         <Item>
           <Name>Password</Name>
@@ -13130,7 +13130,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -13278,7 +13278,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -13426,7 +13426,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -13574,7 +13574,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -13722,7 +13722,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -13876,21 +13876,21 @@
                       <SymbolType>Futures</SymbolType>
                       <FuturesContractType>Contract</FuturesContractType>
                       <Root>NQ</Root>
-                      <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
+                      <ExpirationTime>2025-12-19T05:35:54.6-05:00</ExpirationTime>
                     </BusinessObjectInfo>
                   </Symbol>
                   <Account>
                     <BusinessObjectInfo>
-                      <Id>/qEN01oRl1ocaMX6THW8/o8DknHB0cNv6oHQw+SnvKY=</Id>
+                      <Id>zKhs3jeJ+Wc31Z1V/hMW+SMPmcTD7tsREpCIdsTkEOA=</Id>
                       <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
-                      <Name>aS3kQoIeQzup878hOBl8KGtb4X2H0iAz6laT3Omp4NIe5mJGgjnfBo3m/YadBTtSJY7fRABpmyH8B1mARAVi/7BewYQF9eSYw2AlJZfnVyk=</Name>
+                      <Name>KxReNnxI4RkFizyMnN45Nj5pu/Zed4SySO5h8dlNmOB0C4j9rCleejVTdsehidrLAeQ6XlIUadG8rdJYHyeg6jS4/CuqdBy8u001VyO2loo=</Name>
                       <IsCrypto>false</IsCrypto>
                     </BusinessObjectInfo>
                   </Account>
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId>Stop</OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -14038,7 +14038,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -14186,7 +14186,7 @@
                   <Side>0</Side>
                   <Quantity>1</Quantity>
                   <Total>0</Total>
-                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                  <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName&amp;gt;&amp;amp;lt;QuantityDefinitionSettingName&amp;amp;gt;&amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;amp;amp;lt;QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;QuantityDefinitionSettingName /&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;amp;gt;&amp;amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;amp;gt;&amp;amp;lt;/QuantityDefinitionSettingName&amp;amp;gt;&amp;lt;/QuantityDefinitionSettingName&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
                   <OrderTypeId></OrderTypeId>
                   <Price>NaN</Price>
                   <TriggerPrice>NaN</TriggerPrice>
@@ -14328,7 +14328,7 @@
           <Item>
             <Name>name</Name>
             <Type>SettingItemString</Type>
-            <Value />
+            <Value></Value>
           </Item>
           <Item>
             <Name>orderEntryModel</Name>
@@ -14337,18 +14337,38 @@
               <Name>orderParameters</Name>
               <Type>SettingItemOrderRequestParameters</Type>
               <OrderRequestParameters>
+                <Symbol>
+                  <BusinessObjectInfo>
+                    <Id>NQZ5@CME</Id>
+                    <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+                    <Name>NQZ5</Name>
+                    <ExchangeId>CME</ExchangeId>
+                    <SymbolType>Futures</SymbolType>
+                    <FuturesContractType>Contract</FuturesContractType>
+                    <Root>NQ</Root>
+                    <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
+                  </BusinessObjectInfo>
+                </Symbol>
+                <Account>
+                  <BusinessObjectInfo>
+                    <Id>48lHA3h7U5xsxGjqk9ygesdZJ5BljsTmrt51IIa24ME=</Id>
+                    <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
+                    <Name>TMG4w0c5usAUnHMvphYNvsudu96J8mzZlppfYw5CPU8INNU60KZWqUHarykGOrhK9VzjpKaQ7ECWRlg6UhrSzvlxdTAx1PnYql8mOMZEel8=</Name>
+                    <IsCrypto>false</IsCrypto>
+                  </BusinessObjectInfo>
+                </Account>
                 <Side>0</Side>
                 <Quantity>1</Quantity>
                 <Total>0</Total>
-                <QuantityDefinitionSettingName />
-                <OrderTypeId />
+                <QuantityDefinitionSettingName>&lt;QuantityDefinitionSettingName&gt;&amp;lt;QuantityDefinitionSettingName /&amp;gt;&lt;/QuantityDefinitionSettingName&gt;</QuantityDefinitionSettingName>
+                <OrderTypeId>Stop</OrderTypeId>
                 <Price>NaN</Price>
                 <TriggerPrice>NaN</TriggerPrice>
                 <TrailOffset>NaN</TrailOffset>
                 <TimeInForce>3</TimeInForce>
                 <ExpirationTime>0001-01-01T00:00:00</ExpirationTime>
                 <Slippage>0</Slippage>
-                <PositionId />
+                <PositionId></PositionId>
                 <StopLossItems>
                   <SlTpHolder>
                     <Type>0</Type>
@@ -14416,11 +14436,6 @@
                     <Name>ToMarketOnReject</Name>
                     <Type>SettingItemBoolean</Type>
                     <Value>false</Value>
-                  </Item>
-                  <Item>
-                    <Name>qtyButtons</Name>
-                    <Type>SettingItemQuickButtons</Type>
-                    <Value>1;2;5;10;x</Value>
                   </Item>
                 </AdditionalParameters>
               </OrderRequestParameters>
@@ -14530,7 +14545,7 @@
           <Item>
             <Name>quantityDefiningSettingName</Name>
             <Type>SettingItemString</Type>
-            <Value />
+            <Value></Value>
           </Item>
           <Item>
             <Name>quantityQuickButtons</Name>
@@ -16226,7 +16241,7 @@
               <SymbolType>Futures</SymbolType>
               <FuturesContractType>Contract</FuturesContractType>
               <Root>NQ</Root>
-              <ExpirationTime>2025-12-19T10:35:54.6Z</ExpirationTime>
+              <ExpirationTime>2025-12-19T05:35:54.6-05:00</ExpirationTime>
             </BusinessObjectInfo>
           </Item>
         </Item>

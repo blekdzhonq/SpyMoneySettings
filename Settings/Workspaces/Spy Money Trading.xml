@@ -111,9 +111,9 @@
           <Name>CurrentAccount</Name>
           <Type>SettingItemAccount</Type>
           <BusinessObjectInfo>
-            <Id>Xdki0uo+UtdiPvekT9DTd/9D16v93+FR5bDuBPryCVA=</Id>
+            <Id>BtvMX6G0hl/FwqHD0BcAUrr7+FwgagihITEdFTurvaY=</Id>
             <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
-            <Name>6EB7DP4K4TFWP/hUh5HHUkH+DCRIHCwY4vjBhG3qEqehMCPZwVVmkL+ccYdDeTtLX6njXEgq3OcV82qT4qk3Ty41aDepNEJUSWiuaRnUX3U=</Name>
+            <Name>t6J57eKsXQljiPDGRz3hi4Hi6bIQfNdS0YXIoxGKUtPP6njej+iTvFtQECVjUeBDNXWihPiVs0UcdrgN0zJujnmKQgBh3DD+xnfxBTH8SDY=</Name>
             <IsCrypto>false</IsCrypto>
           </BusinessObjectInfo>
         </Item>
@@ -388,11 +388,6 @@
             <Name>eobBasePriceOffset</Name>
             <Type>SettingItemInteger</Type>
             <Value>0</Value>
-          </Item>
-          <Item>
-            <Name>eobSelectedOrderType</Name>
-            <Type>SettingItemString</Type>
-            <Value>Market</Value>
           </Item>
           <Item>
             <Name>Info window</Name>
@@ -2329,7 +2324,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1118</Value>
+                  <Value>448</Value>
                 </Item>
               </Item>
               <Item>
@@ -2467,7 +2462,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1119</Value>
+                  <Value>449</Value>
                 </Item>
               </Item>
               <Item>
@@ -2506,7 +2501,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1120</Value>
+                  <Value>450</Value>
                 </Item>
               </Item>
               <Item>
@@ -3660,7 +3655,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1121</Value>
+                  <Value>451</Value>
                 </Item>
               </Item>
               <Item>
@@ -3699,7 +3694,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1122</Value>
+                  <Value>452</Value>
                 </Item>
               </Item>
               <Item>
@@ -3738,7 +3733,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1123</Value>
+                  <Value>453</Value>
                 </Item>
               </Item>
               <Item>
@@ -3777,7 +3772,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1124</Value>
+                  <Value>454</Value>
                 </Item>
               </Item>
               <Item>
@@ -3816,7 +3811,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1125</Value>
+                  <Value>455</Value>
                 </Item>
               </Item>
               <Item>
@@ -3855,7 +3850,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1126</Value>
+                  <Value>456</Value>
                 </Item>
               </Item>
               <Item>
@@ -3894,7 +3889,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1127</Value>
+                  <Value>457</Value>
                 </Item>
               </Item>
               <Item>
@@ -3933,7 +3928,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1128</Value>
+                  <Value>458</Value>
                 </Item>
               </Item>
               <Item>
@@ -4187,7 +4182,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1129</Value>
+                  <Value>459</Value>
                 </Item>
               </Item>
               <Item>
@@ -4904,7 +4899,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1130</Value>
+                  <Value>460</Value>
                 </Item>
               </Item>
               <Item>
@@ -4943,7 +4938,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1131</Value>
+                  <Value>461</Value>
                 </Item>
               </Item>
               <Item>
@@ -4982,7 +4977,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1132</Value>
+                  <Value>462</Value>
                 </Item>
               </Item>
               <Item>
@@ -5021,7 +5016,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1133</Value>
+                  <Value>463</Value>
                 </Item>
               </Item>
               <Item>
@@ -5060,7 +5055,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1134</Value>
+                  <Value>464</Value>
                 </Item>
               </Item>
               <Item>
@@ -5099,7 +5094,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1135</Value>
+                  <Value>465</Value>
                 </Item>
               </Item>
               <Item>
@@ -5238,7 +5233,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1136</Value>
+                  <Value>466</Value>
                 </Item>
               </Item>
               <Item>
@@ -5277,7 +5272,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1137</Value>
+                  <Value>467</Value>
                 </Item>
               </Item>
               <Item>
@@ -5316,7 +5311,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1138</Value>
+                  <Value>468</Value>
                 </Item>
               </Item>
               <Item>
@@ -5355,7 +5350,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1139</Value>
+                  <Value>469</Value>
                 </Item>
               </Item>
               <Item>
@@ -5394,7 +5389,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1140</Value>
+                  <Value>470</Value>
                 </Item>
               </Item>
               <Item>
@@ -5433,7 +5428,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1141</Value>
+                  <Value>471</Value>
                 </Item>
               </Item>
               <Item>
@@ -5572,7 +5567,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1142</Value>
+                  <Value>472</Value>
                 </Item>
               </Item>
               <Item>
@@ -5611,7 +5606,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1143</Value>
+                  <Value>473</Value>
                 </Item>
               </Item>
               <Item>
@@ -5650,7 +5645,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1144</Value>
+                  <Value>474</Value>
                 </Item>
               </Item>
               <Item>
@@ -5689,7 +5684,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1145</Value>
+                  <Value>475</Value>
                 </Item>
               </Item>
               <Item>
@@ -5728,7 +5723,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1146</Value>
+                  <Value>476</Value>
                 </Item>
               </Item>
               <Item>
@@ -5767,7 +5762,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1147</Value>
+                  <Value>477</Value>
                 </Item>
               </Item>
               <Item>
@@ -5906,7 +5901,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1148</Value>
+                  <Value>478</Value>
                 </Item>
               </Item>
               <Item>
@@ -5945,7 +5940,7 @@
                 <Item>
                   <Name>LineSeriesId</Name>
                   <Type>SettingItemInteger</Type>
-                  <Value>1149</Value>
+                  <Value>479</Value>
                 </Item>
               </Item>
               <Item>
@@ -11835,7 +11830,7 @@
           <Item>
             <Name>AspectRatio</Name>
             <Type>SettingItemDouble</Type>
-            <Value>0.6986906098017418</Value>
+            <Value>NaN</Value>
           </Item>
         </Item>
         <Item>
@@ -11909,7 +11904,7 @@
         <Item>
           <Name>OEQuantity</Name>
           <Type>SettingItemDouble</Type>
-          <Value>1</Value>
+          <Value>0</Value>
         </Item>
         <Item>
           <Name>oeSettings</Name>
@@ -11932,9 +11927,9 @@
             <Name>CurrentAccount</Name>
             <Type>SettingItemAccount</Type>
             <BusinessObjectInfo>
-              <Id>fJwGiWlDrfD3uDQAcYNFGj/olC/lTn7oQkyV2RhZXI4=</Id>
+              <Id>UrSQQmyWFPiK1Ac0V7Mgpn06iwccb++jheXfPwLe/uY=</Id>
               <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
-              <Name>wWiRH4OkcaB1GogKd9XdDUdsL0zow1ygeQSyAeuHwLNuxowSB3HC2rFohOrDoats8P4Uj1TvRX37dE3YssA56u6WOFh1hNKmVChYfKSM6J4=</Name>
+              <Name>KrauVVWlgGuKCmog0uzC+7dPJ5eWytrafZ9RJ69FFmuGOYusXT70Q/JYR2MzAotBd/NQ0KTyRtT4T1c+K4S+G/44OOu7wwS/0NsIyEkvo7Y=</Name>
               <IsCrypto>false</IsCrypto>
             </BusinessObjectInfo>
           </Item>
@@ -11956,7 +11951,7 @@
           <Item>
             <Name>showAccountLookup</Name>
             <Type>SettingItemBoolean</Type>
-            <Value>false</Value>
+            <Value>true</Value>
           </Item>
           <Item>
             <Name>resetQuantity</Name>
@@ -12080,7 +12075,7 @@
               <Item>
                 <Name>closepositions.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12089,7 +12084,7 @@
               <Item>
                 <Name>reverse.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12098,7 +12093,7 @@
               <Item>
                 <Name>reverseandcancel.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12125,7 +12120,7 @@
               <Item>
                 <Name>cancelorders.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12134,7 +12129,7 @@
               <Item>
                 <Name>cancelbuy.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12161,7 +12156,7 @@
               <Item>
                 <Name>cancelsell.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12188,7 +12183,7 @@
               <Item>
                 <Name>cancellimit.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
             <Item>
@@ -12197,7 +12192,7 @@
               <Item>
                 <Name>cancelstop.show</Name>
                 <Type>SettingItemBoolean</Type>
-                <Value>false</Value>
+                <Value>true</Value>
               </Item>
             </Item>
           </Item>
@@ -12258,7 +12253,7 @@
         <Item>
           <Name>restoreWidth</Name>
           <Type>SettingItemInteger</Type>
-          <Value>230</Value>
+          <Value>231</Value>
         </Item>
         <Item>
           <Name>restoreHeight</Name>
@@ -15264,9 +15259,9 @@
           <Name>CurrentAccount</Name>
           <Type>SettingItemAccount</Type>
           <BusinessObjectInfo>
-            <Id>csuunKUpJiSNVXlh9dqrH2hShbHzCC1Q9pj3RGfcntQ=</Id>
+            <Id>JZ3Yve9tAnuREWdDC9bfyeUW6qw8W7jhfRnAfRToats=</Id>
             <ConnectionId>Rithmic-Rithmic-Custom-fa8wxaCPh0gBqlCGe2VCA</ConnectionId>
-            <Name>u2VWEFiLJwVZp2eobph8DztqaWn3rvDDRP3+53IcXg4AoCY2bDNHhR2qjuSbWRMEkVGJJP6PCuLsC82S21jFQSgKWQjAySEVPTgHXKSENTI=</Name>
+            <Name>ktEvHKsb3oQZSe1+9QTniXBsBD13oaO1BnOkbx7GNI6iRp92DV+6fc8+XRSo9+XaE6l9y/rzQQ/XJjp539Ll83pgeXtLobvaWcvIbi31fZs=</Name>
             <IsCrypto>false</IsCrypto>
           </BusinessObjectInfo>
         </Item>
@@ -15288,7 +15283,7 @@
         <Item>
           <Name>showAccountLookup</Name>
           <Type>SettingItemBoolean</Type>
-          <Value>false</Value>
+          <Value>true</Value>
         </Item>
         <Item>
           <Name>resetQuantity</Name>
@@ -15412,7 +15407,7 @@
             <Item>
               <Name>closepositions.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15421,7 +15416,7 @@
             <Item>
               <Name>reverse.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15430,7 +15425,7 @@
             <Item>
               <Name>reverseandcancel.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15457,7 +15452,7 @@
             <Item>
               <Name>cancelorders.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15466,7 +15461,7 @@
             <Item>
               <Name>cancelbuy.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15493,7 +15488,7 @@
             <Item>
               <Name>cancelsell.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15520,7 +15515,7 @@
             <Item>
               <Name>cancellimit.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
           <Item>
@@ -15529,7 +15524,7 @@
             <Item>
               <Name>cancelstop.show</Name>
               <Type>SettingItemBoolean</Type>
-              <Value>false</Value>
+              <Value>true</Value>
             </Item>
           </Item>
         </Item>
@@ -18615,9 +18610,9 @@
           <Name>CurrentAccount</Name>
           <Type>SettingItemAccount</Type>
           <BusinessObjectInfo>
-            <Id>zetHr4JpP6mtajxfJCXiSvDDTp1oplGDQ8mOQJgVCrw=</Id>
+            <Id>SVH1VYTw1nFSuMO51xVA4jlMguO/FnOLUfWfT1FgG4w=</Id>
             <ConnectionId>dxFeed-dxFeed-Default-dxFeed</ConnectionId>
-            <Name>/SuahHtgm8siVbRgjMPrc7B101zZAjjiaCF2PFL1ASE=</Name>
+            <Name>6cPDot6PjmFJ30JPl3xUtzwscCmbnSWK6E4YOEjtXms=</Name>
             <IsCrypto>false</IsCrypto>
           </BusinessObjectInfo>
         </Item>
